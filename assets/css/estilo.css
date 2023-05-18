@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+h5{
+    border:purple 3px solid;
+    background-color: rgb(228, 228, 228);
+    color:rgb(0, 0, 0);
+    margin:auto;
+    padding:6px;
+    font-size: 25px;
+}
+p{
+    color:orange;
+    font-size: 25px;
+}
+fieldset{
+    border: dotted rgb(148, 9, 148);
+}
+a{
+    color:orange;
+    text-decoration:none;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.botoes{
+    left:1200px;
+}
+
+header{
+    position:relative;
+    left:1450px;
+    padding:10px;
+}
