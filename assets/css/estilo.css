@@ -23,6 +23,9 @@ a{
     margin-left: 20px;
 }
 
+a:hover {
+    color: purple;
+}
 .botoes{
     left:1200px;
 }
@@ -31,4 +34,7 @@ header{
     position:relative;
     left:1450px;
     padding:10px;
+}
+img {
+    width: 910px;
 }
